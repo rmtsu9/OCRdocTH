@@ -1,0 +1,12 @@
+pytesseract
+pdfplumber
+pdf2image
+Pillow
+opencv-python
+pandas
+openpyxl
+pythainlp
+# Optional better OCR engines (install one or both)
+paddleocr
+easyocr
+
